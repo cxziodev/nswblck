@@ -5,9 +5,9 @@ app.nintendo.net
 cdn.nintendo.net
 cdn.nintendo.net
 accounts.nintendo.com
-*.nintendo.com
-*.nintendo.net
-*.nintendo.jp
+||nintendo.com^
+||nintendo.net^
+||nintendo.jp^
 *.nintendo.co.jp
 *.nintendo.co.uk
 *.nintendo-europe.com
@@ -20,7 +20,7 @@ accounts.nintendo.com
 *.nintendo.co.nz
 *.nintendo.at
 *.nintendo.be
-*.nintendods.cz
+||nintendods.cz^
 *.nintendo.dk
 *.nintendo.de
 *.nintendo.fi
