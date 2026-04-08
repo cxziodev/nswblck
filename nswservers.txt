@@ -4,7 +4,6 @@ ma.nintendo.net
 app.nintendo.net
 cdn.nintendo.net
 cdn.nintendo.net
-discord.com
 accounts.nintendo.com
 *.nintendo.com
 *.nintendo.net
