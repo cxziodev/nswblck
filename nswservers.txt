@@ -8,6 +8,7 @@ accounts.nintendo.com
 ||nintendo.com^
 ||nintendo.net^
 ||nintendo.jp^
+||nintendo.at^
 *.nintendo.co.jp
 *.nintendo.co.uk
 *.nintendo-europe.com
